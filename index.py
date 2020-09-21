@@ -2,8 +2,8 @@
 """
 Spyder Editor
 
-This is a temporary script file.
 """
+import matplotlib
 import streamlit as st
 import pandas as pd
 import numpy as np
